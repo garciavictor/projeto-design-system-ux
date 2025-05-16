@@ -76,6 +76,7 @@ projeto-design-system-ux/
 ├── package.json         # Metadados do projeto e dependências
 ├── README.md            # Este arquivo
 └── vite.config.js       # Configuração do Vite
+```
 
 ## ⭐ Figma
 
