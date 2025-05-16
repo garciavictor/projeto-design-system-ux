@@ -1,0 +1,105 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`@components/Toast > matches snapshot for error variant 1`] = `
+<div
+  class="sc-bXdtCk cPaWrr"
+  variant="error"
+>
+  <svg
+    aria-hidden="true"
+    class="svg-inline--fa fa-xmark "
+    data-icon="xmark"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style="margin-right: 20px;"
+    viewBox="0 0 384 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"
+      fill="currentColor"
+    />
+  </svg>
+  Error occurred!
+</div>
+`;
+
+exports[`@components/Toast > matches snapshot for info variant 1`] = `
+<div
+  class="sc-bXdtCk iVmcgw"
+  variant="info"
+>
+  <svg
+    aria-hidden="true"
+    class="svg-inline--fa fa-info "
+    data-icon="info"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style="margin-right: 20px;"
+    viewBox="0 0 192 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M48 80a48 48 0 1 1 96 0A48 48 0 1 1 48 80zM0 224c0-17.7 14.3-32 32-32l64 0c17.7 0 32 14.3 32 32l0 224 32 0c17.7 0 32 14.3 32 32s-14.3 32-32 32L32 512c-17.7 0-32-14.3-32-32s14.3-32 32-32l32 0 0-192-32 0c-17.7 0-32-14.3-32-32z"
+      fill="currentColor"
+    />
+  </svg>
+  Info message
+</div>
+`;
+
+exports[`@components/Toast > matches snapshot for success variant 1`] = `
+<div
+  class="sc-bXdtCk cWWarp"
+  variant="success"
+>
+  <svg
+    aria-hidden="true"
+    class="svg-inline--fa fa-check "
+    data-icon="check"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style="margin-right: 20px;"
+    viewBox="0 0 448 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"
+      fill="currentColor"
+    />
+  </svg>
+  Success!
+</div>
+`;
+
+exports[`@components/Toast > matches snapshot for warning variant 1`] = `
+<div
+  class="sc-bXdtCk iFnRGl"
+  variant="warning"
+>
+  <svg
+    aria-hidden="true"
+    class="svg-inline--fa fa-exclamation "
+    data-icon="exclamation"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    style="margin-right: 20px;"
+    viewBox="0 0 128 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M96 64c0-17.7-14.3-32-32-32S32 46.3 32 64l0 256c0 17.7 14.3 32 32 32s32-14.3 32-32L96 64zM64 480a40 40 0 1 0 0-80 40 40 0 1 0 0 80z"
+      fill="currentColor"
+    />
+  </svg>
+  Warning issued!
+</div>
+`;
+
+exports[`@components/Toast/ToastManager > renders and displays a toast using showToast() > Toast removed after timeout 1`] = `<div />`;
+
+exports[`@components/Toast/ToastManager > renders and displays a toast using showToast() > Toast rendered after showToast 1`] = `<div />`;

@@ -1,0 +1,85 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`@components/Typography > renders H1 correctly 1`] = `
+<h1
+  class="sc-bXdtCk PSZhy"
+>
+  Heading 1
+</h1>
+`;
+
+exports[`@components/Typography > renders H2 correctly 1`] = `
+<h2
+  class="sc-hKDTPf gbwOBZ"
+>
+  Heading 2
+</h2>
+`;
+
+exports[`@components/Typography > renders H3 correctly 1`] = `
+<h2
+  class="sc-fmZSGO gydQkw"
+>
+  Heading 3
+</h2>
+`;
+
+exports[`@components/Typography > renders Paragraph with default variant correctly 1`] = `
+<p
+  class="sc-gwsNht iRelQL"
+  variant="default"
+>
+  Default text
+</p>
+`;
+
+exports[`@components/Typography > renders Paragraph with small variant correctly 1`] = `
+<p
+  class="sc-gwsNht cEiqgy"
+  variant="small"
+>
+  Small text
+</p>
+`;
+
+exports[`Typography Components > renders H1 correctly 1`] = `
+<h1
+  class="sc-bXdtCk PSZhy"
+>
+  Heading 1
+</h1>
+`;
+
+exports[`Typography Components > renders H2 correctly 1`] = `
+<h2
+  class="sc-hKDTPf gbwOBZ"
+>
+  Heading 2
+</h2>
+`;
+
+exports[`Typography Components > renders H3 correctly 1`] = `
+<h2
+  class="sc-fmZSGO gydQkw"
+>
+  Heading 3
+</h2>
+`;
+
+exports[`Typography Components > renders Paragraph with default variant correctly 1`] = `
+<p
+  class="sc-gwsNht iRelQL"
+  variant="default"
+>
+  Default text
+</p>
+`;
+
+exports[`Typography Components > renders Paragraph with small variant correctly 1`] = `
+<p
+  class="sc-gwsNht cEiqgy"
+  variant="small"
+>
+  Small text
+</p>
+`;
